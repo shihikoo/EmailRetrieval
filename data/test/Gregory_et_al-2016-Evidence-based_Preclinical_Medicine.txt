@@ -1,0 +1,387 @@
+Received: 24 May 2016
+
+Revised: 26 July 2016
+
+Accepted: 13 December 2016
+
+DOI 10.1002/ebm2.23
+
+SYSTEMATIC REVIEW PROTOCOL
+
+Protocol for a systematic review and meta-analysis
+of experimental models of amyotrophic lateral sclerosis
+J. M. Gregory1 | F. M. Waldron2 | T. Soane1 | L. Fulton3 | D. Leighton1 | J. Chataway4 |
+S. Pal1 | S. Chandran1 | M. R. Macleod1
+1
+Centre for Clinical Brain Sciences, University
+of Edinburgh, Edinburgh, UK
+
+Amyotrophic lateral sclerosis (ALS) is a rapidly progressive neurodegenerative disease with no
+
+2
+
+cure and limited treatment options. There is therefore an urgent need for effective therapeutic
+
+Institute of Evolutionary Biology and Centre
+for Immunity Infection and Evolution,
+University of Edinburgh, Ashworth
+Laboratories, Edinburgh, UK
+3
+
+School of Medicine, Medical Sciences and
+Nutrition, University of Aberdeen,
+Aberdeen, UK
+
+interventions in this disease. This protocol outlines the strategy for a systematic review and
+meta-analysis to identify, from in vivo animal and human induced pluripotent stem cell (hiPSC)
+studies, potential therapeutic interventions for ALS. Our aim is to perform a comprehensive
+review of the ALS literature to compile a list of (1) candidate interventions and (2) target pathways that may be of therapeutic benefit in patients with ALS.
+
+4
+
+National Hospital for Neurology and
+Neurosurgery, University College London
+Hospitals NHS Foundation Trust and Queen
+Square Multiple Sclerosis Centre, Department
+of Neuroinflammation, University College
+London, London, UK
+
+KEYWORDS
+
+ALS, FTD, in vivo animal models, therapeutic intervention
+
+Correspondence:
+Jenna M. Gregory, Centre for Clinical Brain
+Sciences, University of Edinburgh, Edinburgh
+EG16 4SB, UK.
+Email: jennagregory488@gmail.com
+Funding information
+NC3Rs (National Centre for the Replacement,
+Refinement & Reduction of Animals in
+Research); National Institute of Health
+Research (NIHR); University College London
+Hospitals/UCL Biomedical Research Centre.
+
+1 | I N T RO D UC T I O N
+
+following respiratory failure. There have been no further successful
+treatments since the identification of riluzole as a potential therapeu-
+
+Amyotrophic lateral sclerosis (ALS) is a devastating disease with
+
+tic intervention in ALS, there is therefore an urgent need for effective
+
+limited treatment options. The disease process is characterized by
+
+medications to treat this disease.
+
+the selective degeneration of motor neurons leading to muscle dener-
+
+Systematic review and meta-analysis of ALS literature may help
+
+vation and subsequent atrophy. Patients progressively lose control
+
+us to identify potential therapeutic interventions from animal model
+
+over their bodies resulting in death, usually from respiratory arrest,
+
+data with potential for clinical application. A recent systematic review
+
+usually within 3 to 5 years of a diagnosis. Current treatment strate-
+
+focused on the efficacy of stem cell therapy in ALS2 and previously,
+
+gies rely on supportive management and symptom control. Only one
+
+analysis of the literature from the SOD1-G93A transgenic mouse
+
+medication, riluzole, is licenced for clinical use. Riluzole is a sodium
+
+model of ALS3 identified commonly investigated pathways in the
+
+channel blocker and may have other effects through inhibition of N-
+
+pathophysiology of ALS. However, there has been no systematic
+
+Methyl-D-aspartic acid (NMDA) receptor signalling, glutamate release
+
+review and meta-analysis, to our knowledge, examining the ALS liter-
+
+1
+
+and uptake, which might serve to dampen neuroexcitation.
+
+The
+
+ature as a whole, encompassing efficacy of all therapeutic interven-
+
+effects of this drug are only modest, improving survival by 2 to
+
+tions with the potential for clinical application. Furthermore, since the
+
+3 months and perhaps delaying the onset of ventilator dependence
+
+review of the SOD1-G93A mouse model of ALS, the field has
+
+Evidence-based Preclinical Medicine 2017; e00023
+
+wileyonlinelibrary.com/journal/ebm2 © 2017 The Authors. Evidence-based Preclinical Medicine
+Published by John Wiley & Sons Ltd.
+
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original
+work is properly cited.
+
+17
+
+18
+
+GREGORY ET AL.
+
+changed dramatically with a greater understanding of the genetic and
+pathological mechanisms underpinning the disease and the establishment of a variety of diverse animal models of the disease. We will
+therefore examine the in vivo ALS literature with a focus on identifying interventions and target pathways that may have a therapeutic
+benefit in ALS.
+
+4.1 | Search method: Pubmed
+4.1.1 | Search (1) animal model data
+((“amyotrophic lateral sclerosis” or “motor neuron disease” or “frontotemporal dementia” or FTLD or FTD or MND or ALS) AND ((mouse
+or mice or murine) or rat or (drosophila or “fruit fly”) or “c. elegans” or
+“zebra fish” or yeast)) AND Animals[Mesh:noexp]
+
+4.1.2 | Search (2) iPSC data
+
+2 | APPROACH
+
+(((“amyotrophic lateral sclerosis” or “motor neuron disease” or “frontotemporal dementia” or FTLD or FTD or MND or ALS) AND (iPSCs OR
+
+A systematic review will be performed assessing interventions
+
+“stem cells”)) AND ( ( Animals[Mesh:noexp] OR Humans[Mesh] ) ))
+
+implemented in preclinical data from all in vivo models of ALS and
+frontotemporal dementia (FTD) (given the clinical and genetic overlap between the diseases) including (1) mammalian models (mouse
+
+4.2 | Search method: EMBASE
+
+and rat), (2) organisms with a central nervous system (Drosophila,
+
+4.2.1 | Search (1) animal model data
+
+C. elegans and Zebrafish) and (3) multicellular eukaryotic models
+
+((Amyotrophic lateral sclerosis or ALS or Motor neuron disease or
+
+such as yeast. The search strategy will also include data from
+
+MND or Frontotemporal dementia or FTD or FTLD) and (Mouse or
+
+(4) human, induced, pluripotent stem cells (iPSCs) taken from
+
+murine or mice or rat or drosophila or fruit fly or c elegans or zebra
+
+patients with ALS, due to their potential for a direct translational
+
+fish or yeast)).af. and animal.sh.
+
+application of the results. Individual meta-analyses will then be performed for each of the interventions identified. Interventions will
+
+4.2.2 | Search (2) iPSC data
+
+also be grouped by their target pathway for further subgroup
+
+((Amyotrophic lateral sclerosis or ALS or Motor neuron disease or
+
+analysis.
+
+MND or Frontotemporal dementia or FTD or FTLD) and (iPSCs or
+stem cells)).af. and human.sh.
+
+3 | OBJECTIVES
+
+4.3 | Search method: Medline
+4.3.1 | Search (1) animal model data
+
+3.1 | PICOS framework
+Population: in vivo studies in ALS and FTD.
+Intervention: all therapeutic interventions.
+Comparison: control or vehicle treatment group.
+
+((Amyotrophic lateral sclerosis or ALS or Motor neuron disease or
+MND or Frontotemporal dementia or FTD or FTLD) and (Mouse or
+murine or mice or rat or drosophila or fruit fly or c elegans or zebra
+fish or yeast)).af. and animal.hw.
+
+4.3.2 | Search (2) iPSC data
+
+3.2 | Outcome measure
+Primary outcome: mortality (spontaneous or euthanased); for hiPSCs,
+
+((Amyotrophic lateral sclerosis or ALS or Motor neuron disease or
+MND or Frontotemporal dementia or FTD or FTLD) and (iPSCs or
+stem cells)).af.
+
+cell death.
+Secondary outcomes: (1) behavioural (locomotor, circadian
+
+4.4 | Screening
+
+rhythm, memory, body weight), (2) biochemical (misfolded protein
+load, markers of cell stress) and (3) histological measures (integrity of
+motor neurons, axons, glia, astrocytes, neuromuscular junctions and
+muscle).
+Study design: all study types where outcome in animals or cells
+exposed to the intervention is compared with that in animals or cells
+not exposed to the intervention.
+
+We will use the Systematic Review Facility online screening tool
+(app.syrf.org.uk). We will screen the title and abstract of each paper
+identified and for potentially relevant papers the full text will be
+retrieved, imported to EndNote and duplicate records will be discarded. Two independent reviewers will assess each paper (for
+screening and data extraction) with regards to the inclusion and
+exclusion criteria and a quality score and will extract data as
+described below. If reviewer concordance is <0.66 a third reviewer
+will assess the paper.
+
+4 | METHODS
+Sources: databases: (1) PubMed, (2) Medline and (3) EMBASE
+NB: there will be no publication date restrictions and no language
+restrictions.
+Date of searches: April 8, 2016.
+
+4.5 | Eligibility
+4.5.1 | Inclusion criteria
+• All therapeutic interventions where outcome is compared with
+that in a control or placebo group in ALS or FTD disease models.
+
+19
+
+GREGORY ET AL.
+
+• Types of model.
+• Genetic (knock out/in) OR drug induced (not combinations).
+
+• Natural death or euthanased or N/A.
+• Outcome: (1) outcome measure (2) primary or secondary (3) value.
+
+• Yeast, Drosophila, Zebrafish, C. elegans, Mouse, Rat, human
+induced pluripotent stem cells (hiPSCs).
+
+4.5.2 | Exclusion criteria
+• No control group.
+• Clinical studies.
+• Reviews.
+• Letters and comments.
+• Co-treatments.
+• Combinations of genetic and pharmacological induction of
+phenotype.
+• Cancer cell lines and all non-human iPSC lines.
+
+4.7 | Statistical analysis
+An individual meta-analysis will be carried out for each intervention
+identified and a subgroup analysis of interventions grouped by putative biological target will also be performed. Additional subgroup analyses will include (1) assessment of SOD1 G93A mouse model
+control-group survival data for evidence of genetic drift with time
+and (2) comparison of efficacy of treatments and targets separately in
+sporadic and familial models of disease.
+The outcome measures will be plotted for each of the studies identified and included on a forest plot. Given the variability of model organisms included in the analysis, primary outcome data (survival summary
+data) will be calculated as described previously4 and secondary outcome
+
+4.6 | Quality checklist
+
+measures will be recorded in standardised mean differences (SMD), to
+
+CAMARADES’ study quality checklist, adapted as follows:
+
+allow meaningful comparisons between studies. SMD will be compared
+
+Nine items will be considered, and the median number of checklist items scored, and the interquartile range, will be calculated.
+
+using Hedges g statistic, to account for bias from small sample sizes,
+using a random effects model. Survival summary measures and SMDs
+will be reported as odds ratios with 95% confidence intervals. Hetero-
+
+• Peer review publication.
+
+geneity will be assessed for all outcome measures using I2 values, and a
+
+• Statement of potential conflict of interests.
+
+funnel plot and Egger’s regression test will be used to assess publication
+
+• Sample size calculation.
+
+bias. The summary data from each analysis will then be compared to the
+
+• Random allocation to group.
+
+other meta-analyses on a separate forest plot and a hierarchy of candi-
+
+• Allocation concealment.
+
+date interventions will be identified.
+
+• Blinded assessment of outcome.
+• Appropriate control group identified.
+
+Conflicts of interest
+
+• Compliance with animal welfare regulations.
+
+The authors declare the following conflicts of interest: M.M. is an edi-
+
+• Statement of temperature control.
+
+tor for the journal: Evidence Based Preclinical Medicine.
+
+Study characteristics to be extracted:
+• Study ID: (1) author and (2) year
+• Intervention: (1i) drug from list identified from clinical data (dropdown menu) or (2) other (free text box)
+• Type of model: (1) which animal, (2) genetic or pharmacological
+induction, (3) which protein/mutation (3) gender (4) mated or nonmated or N/A, (5) familial or sporadic disease.
+• Type of therapy: (1) immune, (2) genetic, (3) pharmacological,
+(4) environmental (e.g. diet/temperature), (5) cell.
+• Target pathway: (1) Calcium homeostasis, (2) excitotoxicity, (3) protein turnover, (4) apoptosis, (5) regeneration (6) trophic factor sig-
+
+RE FE RE NC ES
+1. Wagner ML, Landis BE. Riluzole: a new agent for amyotrophic lateral
+sclerosis. Ann Pharmacother. 1997;31(6):738-744.
+2. Moura MC, Novaes MR, Zago YS, Eduardo EJ, Casulari LA. Efficacy of
+stem cell therapy in amyotrophic lateral sclerosis: a systematic review
+and meta-analysis. J Clin Med Res. 2016;8(4):317-324. doi:10.14740/
+jocmr2495w.
+3. Kim RB, Irvin CW, Tilva KR, Mitchell CS. State of the field: an informaticsbased systematic review of the SOD1-G93A amyotrophic lateral sclerosis
+transgenic mouse model. Amyotroph Lateral Scler Frontotemporal Degener.
+2015;17(1–2):1-14. doi:10.3109/21678421.2015.1047455.
+4. Vesterinen HM, Sena ES, Egan KJ, et al. Meta-analysis of data from
+animal studies: a practical guide. J Neurosci Methods. 2014;221:92-102.
+doi:10.1016/j.jneumeth.2013.09.010.
+
+nalling, (7) immunomodulation, (8) inflammation, (9) oxidative
+stress, (10) anion channel abnormalities, (11) lipid metabolism,
+(12) energy balance (including mitochondrial disruption and
+
+How to cite this article: Gregory JM, Waldron FM, Soane T,
+
+(13) axon transport.
+
+Fulton L, Leighton D, Chataway J, Pal S, Chandran S, and
+
+• Mode of intervention delivery: (oral, intrathecal, intracerebroven-
+
+Macleod MR, Protocol for a systematic review and meta-
+
+tricular, intraventricular, intraspinal, intraparenchymal dialysis cath-
+
+analysis of experimental models of amyotrophic lateral sclero-
+
+eter, intracranial cell transplantation/injection, subcutaneous,
+
+sis. Evidence-based Preclinical Medicine. 2017. https://doi.org/
+
+intravenous, intramuscular, intraperitoneal).
+
+10.1002/ebm2.23
+
+• Sample size.
+• Duration of intervention (1) single or (2) multiple or (3) continuous.
+
+
